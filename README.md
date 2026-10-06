@@ -1,3 +1,3 @@
 # @mcnulty/trusted-publishing-example
 
-An example package to experiment and analyze trusted publishing.
+An example package to analyze trusted publishing.
